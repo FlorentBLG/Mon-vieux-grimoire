@@ -1,0 +1,201 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:#F2E3CE;
+}
+nav{
+    background-color:white;
+    width: 100%;
+    height: 90px;
+    display: flex;
+    
+}
+
+h1{
+font-family: Georgia, 'Times New Roman', Times, serif;
+margin-left: 2%;
+margin-top:2%;
+font-size:larger;
+
+}
+.menu1{
+    margin-left:35%;
+  margin-top:2%;
+  font-size: large;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: black;
+  text-decoration:none;
+
+
+}
+.menu2{
+    margin-left: 15%;
+    margin-top:2%;
+    font-size: large;
+    color: black;
+    text-decoration:none;
+
+    
+}
+.menu3{
+    margin-left: 15%;
+    margin-top:2%;
+    font-size: large;
+    color: black;
+    text-decoration:none;
+}
+.menu1:hover{
+    opacity: 0.5;
+}
+.menu2:hover{
+    opacity: 0.5;
+}
+.menu3:hover{
+    opacity: 0.5;
+}
+
+header{
+    z-index:0;
+    background-image: url(../image/image1.png);
+    width: 100%;
+    height: 600px;
+}
+section{
+    background:white;
+    justify-content:center;
+    width: 90%;
+    height: 1600px;
+    margin-left: 5%;
+    margin-top:-30%;
+    z-index:1;
+    background-image: url(../image/Vector\ 7.png);
+}
+h2{
+    text-align: center;
+    font-size:x-large;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color:#796157;
+}
+h3{
+    text-align: center;
+    font-size: large;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color:#2C1810;
+}
+
+input{
+color:black;
+background-color: #D9A963;
+width: 10%;
+height: 3%;
+display:flex;
+justify-content: center;
+margin-left: 45%;
+border-radius: 5%;
+border: 0;
+}
+input:hover{
+    opacity:0.8;
+    color: #F2E3CE;
+}
+
+#groupe1{
+    background-image: url(../image/Thumbnail\ book.png);
+    display: flex;
+    width: 30%;
+    height: 300px;
+}
+#groupe2{
+    background-image: url(../image/Thumbnail\ book2.png);
+    display: flex;
+        width: 30%;
+    height: 300px;
+    margin-top: -22%;
+    margin-left: 35%;
+}
+
+#groupe3{
+    background-image: url(../image/Thumbnail\ book\ 3.png);
+    display: flex;
+    width: 30%;
+    height: 300px;
+    margin-top: -24%;
+    margin-left: 70%;
+}
+
+#groupe4{
+   background-image: url(../image/Thumbnail\ book4.png);
+   display: flex;
+   width:30%;
+   height: 300px;
+   margin-top: 5%;
+}
+#groupe5{
+    background-image: url(../image/Thumbnail\ book5.png);
+    display: flex;
+   width:30%;
+   height: 300px;
+   margin-left: 35%;
+   margin-top:-23%
+}
+#groupe6{
+    background-image: url(../image/Thumbnail\ book6.png);
+    display: flex;
+   width:30%;
+   height: 300px;
+   margin-left: 70%;
+   margin-top:-23%
+}
+#groupe7{
+    background-image: url(../image/Thumbnail\ book7.png);
+    display: flex;
+    width: 30%;
+    height: 300px;
+    margin-top:5%
+}
+#groupe8{
+    background-image: url(../image/Thumbnail\ book8.png);
+    display: flex;
+    width:30%;
+    height: 300px;
+    margin-left: 35%;
+    margin-top:-23%
+}
+#groupe9{
+    background-image: url(../image/Thumbnail\ book9.png);
+    display: flex;
+    width:30%;
+    height: 300px;
+    margin-left: 70%;
+    margin-top:-23%
+}
+#groupe10{
+    background-image:url(../image/Thumbnail\ book10.png);
+    display: flex;
+    width: 30%;
+    height: 300px;
+    margin-top:5%
+}
+#groupe11{
+    background-image: url(../image/Thumbnail\ book11.png);
+    display: flex;
+    width:30%;
+    height: 300px;
+    margin-left: 35%;
+    margin-top:-23%
+}
+#groupe12{
+    background-image: url(../image/Thumbnail\ book12.png);
+    display:flex;
+    width:30%;
+    height: 300px;
+    margin-left: 70%;
+    margin-top:-23%
+}
+
+#foot{
+    background-image: url(../image/Footer.png);
+    width: 100%;
+    height: 100px;
+}
+
